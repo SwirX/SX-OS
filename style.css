@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Unbounded&display=swap');
+
+:root {
+    background: #202025;
+    color: #fff;
+    font-family: 'Unbounded', cursive;
+    max-width: 100%;
+    min-height: 100vh;
+}
+
+body {
+    max-width: 99%;
+}
